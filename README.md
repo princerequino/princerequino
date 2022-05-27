@@ -18,7 +18,7 @@ I'm a Web Developer / Photographer  👨‍💻, Currently looking to get better
 <p align="center" >
 <img alt="Prince's github stats" src="https://github-readme-stats.vercel.app/api?username=princerequino&show_icons=true&theme=merko"  > </p>
 
-`<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a> `
+<a>Check more about me here 🌟 </a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/princerequino/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="prince_requino" height="25" width="25" /></a>&nbsp;&nbsp;
