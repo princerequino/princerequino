@@ -14,13 +14,14 @@ Web Developer / Photographer  👨‍💻 Based in Toronto, Canada! 🍁
 - ⚡ Fun fact: I love shooting weddings and engagement sessions! 💞💘 and i also have a 24/7 craving for 🍟French Fries🍟, don't ask me why.
 
 
+
+### ⭐️ Language ⭐️
+
+
+
+
+### ⭐️ Stats ⭐️
 <p align="center" >
-⭐️ Language ⭐️ </p>
-
-
-
-<p align="center" >
-⭐️ Stats ⭐️
 <img alt="Prince's github stats" src="https://github-readme-stats.vercel.app/api?username=princerequino&show_icons=true&theme=merko"  > </p>
 
 <p align="center">
