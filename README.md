@@ -21,15 +21,15 @@ Web Developer / Photographer  👨‍💻 Based in Toronto, Canada! 🍁
 
 
 ### ⭐️ Stats ⭐️
-<p align="center" >
-<img alt="Prince's github stats" src="https://github-readme-stats.vercel.app/api?username=princerequino&show_icons=true&theme=merko"  > </p>
 
-<p align="center">
+<img alt="Prince's github stats" src="https://github-readme-stats.vercel.app/api?username=princerequino&show_icons=true&theme=merko"  >
+
+
 <a>Check more about me here 🌟 </a>
   
 <a href="https://www.linkedin.com/in/princerequino/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="prince_requino" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/princerequino" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="princerequino" height="25" width="25" /></a>&nbsp;&nbsp;
-</p>
+
 
 
 
