@@ -4,7 +4,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Prince <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=princerequino" alt="princerequino" /> </p>
 
-Web Developer / Photographer  👨‍💻 Based in Toronto, Canada! 🍁
+Web Developer / Photographer / Videographer  👨‍💻 Based in Toronto, Canada! 🍁
 
 - 🔭 I’m currently working on a lineup application for Valorant.
 - 🌱 I’m currently learning about React and Front-End related activities.
@@ -28,7 +28,7 @@ Web Developer / Photographer  👨‍💻 Based in Toronto, Canada! 🍁
 ### ⭐️ Socials ⭐️
   
 <a href="https://www.linkedin.com/in/princerequino/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="prince_requino"  /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/princerequino" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="princerequino" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/havehold.ca" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="havehold.ca" /></a>&nbsp;&nbsp;
 
 
 
