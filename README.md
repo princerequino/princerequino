@@ -1,7 +1,3 @@
-<p align="Center" ><img src="https://i.imgflip.com/3qhv9x.gif" height="350px" width ="350px"></p>
-
-
-
 <h1 align="Center">I'm Prince <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=princerequino" alt="princerequino" /> </p>
 
