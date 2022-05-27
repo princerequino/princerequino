@@ -4,14 +4,14 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Prince <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princerequino" alt="princerequino" /> </p>
 
-I'm a Web Developer / Photographer  👨‍💻, Currently looking to get better at coding! 👨‍
+Web Developer / Photographer  👨‍💻 Based in Toronto, Canada! 🍁
 
 - 🔭 I’m currently working on a lineup application for Valorant.
 - 🌱 I’m currently learning about React and Front-End related activities.
 - 👯 I’m looking to collaborate on javascript/react projects and Basic Web Dev stuff
-- 💬 Ask me about anything and everything! Photography? Food? Music? DOGS??? Lets go!
+- 💬 Ask me about anything and everything! Photography📸🎥? Food🍕🍜🍣? Music🎸🎙🎵🎵? DOGS 🐶🐕🐩🐕‍🦺??? Lets go!
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:requinocp@gmail.com)](mailto:requinocp@gmail.com)
-- ⚡ Fun fact: I love shooting weddings and engagement sessions! 
+- ⚡ Fun fact: I love shooting weddings and engagement sessions! 💞💘 and i also have a 24/7 craving for 🍟French Fries🍟, don't ask me why.
 
 ### ⭐️ Language ⭐️
 
