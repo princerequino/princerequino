@@ -16,7 +16,7 @@ I'm a Web Developer / Photographer  👨‍💻, Currently looking to get better
 
 ### ⭐️ Stats ⭐️
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Prince's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
