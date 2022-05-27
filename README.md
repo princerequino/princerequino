@@ -11,7 +11,7 @@ Web Developer / Photographer / Videographer  👨‍💻 Based in Toronto, Canad
 - 👯 I’m looking to collaborate on javascript/react projects and Basic Web Dev stuff
 - 💬 Ask me about anything and everything! Photography📸🎥? Food🍕🍜🍣? Music🎸🎙🎵🎵? DOGS 🐶🐕🐩🐕‍🦺??? Lets go!
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:requinocp@gmail.com)](mailto:requinocp@gmail.com)
-- ⚡ Fun fact: I love shooting weddings and engagement sessions! 💞💘 and i also have a 24/7 craving for 🍟French Fries🍟, don't ask me why.
+- :tada: Fun fact: I love shooting weddings and engagement sessions! 💞💘 and i also have a 24/7 craving for 🍟French Fries🍟, don't ask me why.
 
 
 
