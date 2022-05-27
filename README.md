@@ -13,6 +13,10 @@ I'm a Web Developer / Photographer  👨‍💻, Currently looking to get better
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:requinocp@gmail.com)](mailto:requinocp@gmail.com)
 - ⚡ Fun fact: I love shooting weddings and engagement sessions! 
 
+### ⭐️ Language ⭐️
+
+
+
 
 ### ⭐️ Stats ⭐️
 <p align="center" >
